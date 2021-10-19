@@ -1,5 +1,5 @@
 # TestDLL_LoadTime
-调用DLL（静态链接）  
+调用DLL（隐式链接）  
 # 步骤  
 ## 1.将MyDll.dll放在与.exe相同目录  
 ## 2.在如下选项引入DLL头文件目录  
